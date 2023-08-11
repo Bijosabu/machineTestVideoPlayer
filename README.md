@@ -14,3 +14,17 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<!-- This is an application to load video files and play them as well
+State management using Bloc 
+Usage of freezed classes,dependendency injection etc have been implemented
+DDD architecture
+List of videos are loaded and the user can play the videos
+User can login using the mentioned credentials in the mail
+user authentication done using firebase
+Logout functionality added as well
+
+Yet to implement:
+Favourite button functionality
+
+ -->
