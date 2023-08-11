@@ -23,6 +23,8 @@ List of videos are loaded and the user can play the videos
 User can login using the mentioned credentials in the mail
 user authentication done using firebase
 Logout functionality added as well
+Proper error handlings
+Video datas are fetched in real time from API
 
 Yet to implement:
 Favourite button functionality
