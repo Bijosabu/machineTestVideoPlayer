@@ -25,6 +25,7 @@ user authentication done using firebase
 Logout functionality added as well
 Proper error handlings
 Video datas are fetched in real time from API
+Api used- Pexels API
 
 Yet to implement:
 Favourite button functionality
